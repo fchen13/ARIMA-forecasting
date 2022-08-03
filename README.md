@@ -1,1 +1,1 @@
-# ARIMA-prediciont
+in this project, the time series of water usage from Baltimore was explored and analyzed. an ARIMA model was developed and optimized to predict the water usage at coming year. The time series does have obvious trend, and the forecast show persistent characteristic. It is still a reasonably difficulty problem. 
